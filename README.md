@@ -1,1 +1,15 @@
-# student_mark_predection
+# Student Marks Prediction – Task 3
+
+This is an end-to-end data science project created as part of internship Task-3.
+
+## Project Flow
+- Data Collection
+- Data Preprocessing
+- Model Training
+- Model Deployment using Flask
+
+## Tech Stack
+- Python
+- Pandas
+- Scikit-learn
+- Flask
